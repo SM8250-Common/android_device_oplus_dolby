@@ -48,6 +48,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     init.dolby.rc
 
+# DolbyManager
+PRODUCT_PACKAGES += \
+    OplusDolby
+
 # Overlays    
 PRODUCT_PACKAGES += \
     DolbyFrameworksResCommon
